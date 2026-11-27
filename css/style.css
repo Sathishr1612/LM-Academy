@@ -342,3 +342,12 @@ picture{display:contents}.hero-photo{position:relative;width:100%;height:100%;ob
   .hero-title{font-size:2.15rem}
   .lead-text{font-size:1rem}
 }
+
+/* address */
+.foot-addr a{display:flex;gap:.7rem;align-items:flex-start}
+.foot-addr i{color:var(--gold2);margin-top:.2rem}
+.foot-addr address{margin:0;font-style:normal;line-height:1.55;font-size:.92rem}
+.cta-visit{margin:1.6rem 0 0;color:#c4c9d1;font-size:.95rem}
+.cta-visit i{color:var(--gold2);margin-right:.5rem}
+.cta-visit a{color:#e6e9ef;text-decoration:none;border-bottom:1px solid var(--line)}
+.cta-visit a:hover{color:var(--gold2);border-color:var(--gold2)}
