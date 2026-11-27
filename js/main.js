@@ -1,4 +1,4 @@
-/* LM Academy — vanilla JS (no frameworks) */
+/* LM Academy - vanilla JS (no frameworks) */
 (function () {
   'use strict';
   var NS = 'http://www.w3.org/2000/svg';
